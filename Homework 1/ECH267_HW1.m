@@ -2,7 +2,8 @@
 
 %% Problem 7 
 
-M = [];
+M = [1, 5; -1, -1];
+J = jordan(M)
 
 %% Problem 9 
 
